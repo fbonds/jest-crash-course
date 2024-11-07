@@ -1,0 +1,15 @@
+{
+  "name": "jest-crash-course",
+  "version": "1.0.0",
+  "description": "built watching https://www.youtube.com/watch?v=7r4xVDI2vho",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}

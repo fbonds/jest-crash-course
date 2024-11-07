@@ -4,12 +4,14 @@
   "description": "built watching https://www.youtube.com/watch?v=7r4xVDI2vho",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "testwatch": "jest --watchAll"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "axios": "^1.7.7",
     "jest": "^29.7.0"
   }
 }
